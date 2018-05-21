@@ -1,1 +1,5 @@
-Recomeçar do 0
+<?php
+
+
+
+?>
