@@ -1,3 +1,1 @@
-BATCH TESTE2
-
-TESTE2
+Recomeçar do 0
